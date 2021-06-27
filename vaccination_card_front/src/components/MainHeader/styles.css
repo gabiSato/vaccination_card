@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(34,36,38,.15);
+  margin-bottom: 80px;
+}
+
+.header__content {
+  display: flex !important;
+  align-items: center;
+}
+
+.header__link__wrapper {
+  margin-left: 80px;
+}
+
+.header__link {
+  background: transparent !important;
+  color: #00b5ad !important;
+  font-size: 16px !important;
+}
