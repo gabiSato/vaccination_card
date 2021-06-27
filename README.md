@@ -6,10 +6,16 @@
 ### Criar e restaurar o banco de dados
 
 1. Entrar na pasta do server
-   `cd vaccination_card`
+   ```
+   cd vaccination_card
+   ```
 
 2. Criar o banco de dados
-   `mix ecto.create`
+   ```
+   mix ecto.create
+   ```
 
 3. Restaurar backup
-   `mix ecto.load`
+   ```
+   mix ecto.load
+   ```
